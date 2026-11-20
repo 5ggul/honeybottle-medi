@@ -1,0 +1,27 @@
+섬 하나를 통째로 코드로 지었습니다. 이 3D 도시는 Tencent의 새 모델 Hy4가 단일 HTML 파일로 만들어 낸 결과물입니다.
+
+그리고 오늘, 그 모델이 오픈 웨이트로 풀렸습니다.
+
+✔️ 총 770B 파라미터, 토큰당 49B만 활성화하는 MoE
+✔️ 100만 토큰 컨텍스트
+✔️ 텍스트·이미지·영상을 한 모델이 이해
+✔️ 금융 실무 579개 과제 평가에서 오픈 웨이트 모델 1위
+
+Instruct, FP8, Base 가중치 3종이 Hugging Face, ModelScope, GitCode에 공개됐고, GGUF 테스트 버전과 vLLM, SGLang 공식 이미지도 함께 나왔습니다.
+
+API는 100만 토큰 입력 $0.90, 출력 $2.70. 라이선스는 Tencent Hy License로, 매출 5천만 달러 이상의 MaaS 사업자는 별도 계약이 필요합니다.
+
+This island-scale 3D city was written as code. Tencent's new Hy4 model generated it as a single HTML file.
+
+And today, that model went open weights.
+
+✔️ 770B total parameters, 49B active per token (MoE)
+✔️ 1M token context
+✔️ One model understands text, images, and video
+✔️ #1 among open-weight models on 579 real-world finance tasks
+
+Instruct, FP8, and Base weights are live on Hugging Face, ModelScope, and GitCode, plus a GGUF test build and official vLLM and SGLang images.
+
+API pricing is $0.90 per million input tokens and $2.70 per million output. Under the Tencent Hy License, MaaS businesses above $50M in revenue need a separate agreement.
+
+#Tencent #Hy4 #오픈소스 #오픈웨이트 #AI모델 #Ai_honeybottle
